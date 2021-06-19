@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="name_of_user">name of user</string>
+
+    <string name="name">name</string>
+    <string name="detail_user">Detail User</string>
+
+    <string name="follower">Follower</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="empty">-</string>
+    <string name="search">Search </string>
+
+    <string name="please_search_to_find_data">Please, search to find data</string>
+
+    <string name="logo_app">logo app</string>
+    <string name="message">Time to wake up</string>
+    <string name="image_detail">detail_image</string>
+    <string name="image_for_empty">image for empty</string>
+    <string name="image_to_back">image to back</string>
+    <string name="image_to_setting">image to setting</string>
+    <string name="image_back_from_favorite_activity">image back from favorite activity</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="setting">Setting</string>
+    <string name="image_back_from_setting_activity">Image back from setting activity</string>
+    <string name="image_about_alarm">image about alarm</string>
+    <string name="language">Language</string>
+    <string name="image_about_language">Image about language</string>
+    <string name="image_to_go_favorite">image to go favorite</string>
+    <string name="daily_remainder">Daily Remainder</string>
+    <string name="image_empty_data">image empty data</string>
+    <string name="data_is_empty">data is empty</string>
+    <string name="error_message">Something Wrong</string>
+    <string name="alarm_remainder">alarm remainder</string>
+    <string name="notification">notification</string>
+    <string name="alarm_on">Alarm on</string>
+    <string name="alarm_off">Alarm off</string>
+
+
+</resources>

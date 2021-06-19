@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name_of_user">name of user</string>
+
+    <string name="name">name</string>
+    <string name="detail_user">Detail User</string>
+
+    <string name="follower">Follower</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="empty">-</string>
+    <string name="search">Search </string>
+
+    <string name="please_search_to_find_data">Please, search to find data</string>
+
+    <string name="logo_app">logo app</string>
+    <string name="image_detail">detail_image</string>
+    <string name="image_for_empty">image for empty</string>
+    <string name="image_to_back">image to back</string>
+    <string name="image_to_setting">image to setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
